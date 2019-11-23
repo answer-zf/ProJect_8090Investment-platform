@@ -210,9 +210,9 @@ body {
 }
 .dropdown {
   background: rgba(0, 0, 0, 0.55);
-  padding: 30px 25px;
+  padding: 30px 27px;
   position: absolute;
-  top: 41px;
+  top: 40px;
   left: 0;
   height: 460px;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000, endColorstr=#7F000000);

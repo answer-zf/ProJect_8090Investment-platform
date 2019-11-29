@@ -2302,6 +2302,7 @@ body {
   padding-top: 4px;
 }
 .item-detail-info .title-box .title .ewm {
+  height: 24px;
   border-radius: 50%;
   margin: 0px 14px;
   text-align: center;
@@ -2397,7 +2398,7 @@ body {
 .item-detail-btn ul li i {
   width: 48px;
   height: 40px;
-  background: url(../images/item_btn.png) no-repeat;
+  background: url(../img/item_btn.png) no-repeat;
   display: block;
   margin: 0 auto;
   margin-top: 20px;

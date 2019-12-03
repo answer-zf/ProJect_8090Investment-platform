@@ -1099,11 +1099,8 @@
   <script>
     $(".jm-rank-con li")
       .mouseover(function () {
-        $(this).addClass("active")
-      })
-      .mouseout(function () {
-        // $(this).parent("ul").children("li")
-        $(this).parent("ul").children("li").removeClass("active")
+        $(this).parent("ul").children("li").removeClass("active");
+        $(this).addClass("active");
       })
   </script>
 
